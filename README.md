@@ -1,4 +1,4 @@
-# psrep
+o# psrep
 CALISDEVELOPMENTORG CALIWESST 
 A PowerShell file system searching utility.
 
